@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+motor = "*"
+uvicorn = "*"
+websockets = "*"
+DateTime = "*"
+python-multipart = "*"
+typing = "==3.7.4.3"
+fastapi-socketio = "*"
+pymongo = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

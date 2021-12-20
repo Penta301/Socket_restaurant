@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+datetime
+python-multipart
+typing==3.7.4.3
+fastapi-socketio
